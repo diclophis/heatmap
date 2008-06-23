@@ -1,0 +1,7 @@
+Generates random heatmaps
+===
+
+TODO:
+
+  Implement API for generating useful heatmaps from a set of coordinates.
+  Provide more options for color/point styling.
